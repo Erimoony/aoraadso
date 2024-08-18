@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "aoraadso",
-    "slug": "aoraadso",
+    "name": "myapp",
+    "slug": "myapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "ligth",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
